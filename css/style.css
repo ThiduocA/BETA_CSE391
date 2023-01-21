@@ -1,0 +1,12 @@
+.room {
+    color: #e7505a;
+    text-transform: uppercase;
+}
+
+.col-md-8 {
+    color: #3598dc;
+}
+
+body {
+    font-family: Quicksand, sans-serif;
+}
